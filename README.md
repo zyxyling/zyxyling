@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **zyxyling/zyxyling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=rogue" /> </div>
+
